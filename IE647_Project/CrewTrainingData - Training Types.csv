@@ -1,0 +1,6 @@
+Training Type,Start Crew Type,End Crew Type,,
+1,Boeing FO,Airbus FO,,"E.g., in Training Type 1, Boeing FO starts the training and is qualified as Airbus FO at the end of training."
+2,Boeing FO,Boeing C,,
+3,Boeing C,Airbus C,,
+4,External Boeing FO,Boeing FO,,
+5,External Airbus FO,Airbus FO,,

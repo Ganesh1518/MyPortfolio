@@ -1,0 +1,36 @@
+Training Type,Week of Training,Type,Capacity Needed,Simulator Needed,Max Students,Capacity Gained,,"Week of Training indicates what resources are needed per week of the training, the training can be started in any week"
+1,1,1,2,,4,,,Type is the Type Rating of the instructor needed
+1,2,1,1,,4,,,Capacity Needed the the number of instructors needed
+1,3,1,1,,4,,,Simulator Needed is the number of simulators required for that week of training
+1,4,1,2,,4,,,"Max Students is the maximum number of students that can participate in the training, based on the resources used"
+1,5,2,1,2,4,,,Capacity Gained is the trainees that are available to fly on that week as part of their training
+1,6,1,1,,4,4,,
+1,7,1,2,,4,,,
+1,8,1,1,,4,,,
+1,9,1,1,,4,4,,
+1,10,2,1,,4,4,,
+1,11,2,2,,4,4,,
+2,1,1,1,,2,,,
+2,2,2,1,1,2,,,
+2,3,2,2,,2,2,,
+2,4,3,1,,2,,,
+2,5,2,2,1,2,,,
+2,6,3,2,,2,2,,
+3,1,2,1,,4,,,
+3,2,2,2,,4,,,
+3,3,3,1,,4,,,
+3,4,2,2,,4,,,
+3,5,2,2,,4,,,
+3,6,2,2,2,4,,,
+3,7,2,2,2,4,,,
+3,8,3,1,,4,4,,
+3,9,3,1,,4,,,
+3,10,3,2,1,4,,,
+3,11,2,2,2,4,,,
+3,12,2,2,,4,4,,
+3,13,3,2,,4,4,,
+4,1,1,1,2,2,,,
+4,2,1,1,,2,2,,
+5,1,2,1,2,2,,,
+5,2,1,1,,2,2,,
+5,3,2,1,1,2,1,,
